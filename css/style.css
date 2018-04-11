@@ -1,0 +1,134 @@
+@charset "UTF-8";
+ul {
+	list-style-type: none;
+	margin-top: 0;
+	padding: 0;
+	overflow:hidden;
+	background-color: #5ed7bf;
+	position: static;
+	top:0;
+	width:900%;
+}
+
+li{
+	float:left;
+}
+
+li a {
+	display:block;
+	color:white;
+	text-align: center;
+	padding: 14px 16px;
+	text-decoration: none;
+	font-family:Constantia, "Lucida Bright", "DejaVu Serif", Georgia, "serif";
+}
+
+li a:hover {
+	background-color: #555;
+	color:white;
+}
+
+body {
+	background-color: #e8a87c;
+	
+}
+
+#front {
+	margin-bottom: 23px;
+	text-align: center; 
+}
+
+#one {
+	align-content: auto;
+	background-color: white;
+	margin-top: 100px;
+	margin-right: 180px;
+	margin-left: 200px;
+}
+
+#d1 {
+	color: black;
+	position: relative;
+	font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, "serif" 
+}
+
+#pd {
+	color: black;
+	position: relative;
+	top: -10px;
+	font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, "serif" 
+}
+#onep {
+	align-content: auto;
+	background-color: white;
+	margin-right: 580px;
+	width: 500px;
+}
+#info {
+	padding-left: 80px;
+	padding-bottom: 20px;
+	padding-top: 20px;
+}
+div.me{
+	border-color:#C38D9E;
+	border-style: groove;
+}
+#pintro{
+	background-color: teal;
+	padding-left: 15px;
+	width: 210px;
+}
+#photod {
+	background-color: teal;
+}
+
+#twop {
+	align-content: auto;
+	background-color: white;
+	float:right;
+	width: 450px;
+	margin-right: 100px;
+	margin-top: -340px;
+}
+div.slide {
+	width: 100%;
+	
+}
+#aboutone {
+	display: inline-block;
+	width: 523px;
+	align-content: auto;
+	background-color: white;
+	padding-left: 70px;
+	position: relative;
+	
+	
+}
+div.image{
+	width: 200px;
+	border: thick;
+	border-radius: 50%;
+}
+#videop {
+	display:block;
+	color:white;
+	text-align: center;
+	padding: 14px 16px;
+	text-decoration: none;
+	font-family:Constantia, "Lucida Bright", "DejaVu Serif", Georgia, "serif";
+}
+#dt {
+	background: teal;
+	width: 300px;
+	padding-left: 35px;
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif"
+}
+#dd{
+	background: teal;
+	width: 500px;
+	padding-left: 15px;
+	padding-top: 15px;
+	padding-bottom: 15px;
+	padding-right: 15px;
+	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif"
+}
